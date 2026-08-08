@@ -1,2 +1,2 @@
-# html
-This is a test repo version of my html project
+<!DOCTYPE html>
+<html><head>HTML GUIDE</head></html>
